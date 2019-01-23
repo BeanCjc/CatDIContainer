@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\bin\Debug\netcoreapp2.2\CatDIContainer.deps.json
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\bin\Debug\netcoreapp2.2\CatDIContainer.runtimeconfig.json
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\bin\Debug\netcoreapp2.2\CatDIContainer.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\bin\Debug\netcoreapp2.2\CatDIContainer.dll
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\bin\Debug\netcoreapp2.2\CatDIContainer.pdb
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.dll
+C:\Users\Administrator\source\repos\CatDIContainer\CatDIContainer\obj\Debug\netcoreapp2.2\CatDIContainer.pdb
